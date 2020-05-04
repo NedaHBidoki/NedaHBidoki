@@ -2,7 +2,7 @@
 title: "Computer Networks"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Computer_Networks
 venue: "Paranad Azad University , CS"
 date: 2013-01-01
 location: "Tehran, Iran"
