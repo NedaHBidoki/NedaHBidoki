@@ -3,7 +3,7 @@
 title: "Design and Implementation of Computer Communication Networks"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Design_Networks
 venue: "University of Central Florida , CS"
 date: 2013-01-01
 location: "FL, United States"
