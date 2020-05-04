@@ -3,7 +3,7 @@
 title: "Data Structure"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Data_Structure
 venue: "University of Art and Science, CS"
 date: 2013-01-01
 location: "Yazd, Iran"
