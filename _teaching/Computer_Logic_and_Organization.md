@@ -3,7 +3,7 @@
 title: "Computer Logic and Organization"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Computer_Logic_and_Organization
 venue: "University of Central Florida , CS"
 date: 2013-01-01
 location: "Tehran, Iran"
